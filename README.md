@@ -1,7 +1,7 @@
 # magerwa-cyangugu border
 This projects facilitate to collect Arrival notes and their tallies from Cyangugu
 
-The Cargo Arrival Management System is designed to streamline the process of recording and reporting the arrival of cargo, specifically focusing on tracking and tallying the total amount of kilograms (kgs) received by different tallies. The system provides comprehensive monthly reports summarizing the total kilograms received, categorized by each tally. The users of the system are divided into two roles: Admin and Tally.
+The Cargo Arrival Management System is designed to streamline the process of recording and reporting the arrival of cargo, specifically focusing on tracking and tallying the total amount of kilograms (kgs) received by different tallies. The system provides comprehensive monthly reports summarizing the total kilograms received, categorized by each tally. The users of the system are divided into two roles: Admin and Tally. It is backend part.
 
 User Roles:
 Admin:
