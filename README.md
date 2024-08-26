@@ -46,4 +46,11 @@ The admin views the monthly report to assess the total cargo processed by each t
 The admin manages tally accounts, ensuring that only authorized users can record and view data.
 This system provides an efficient and organized way to manage cargo arrivals and track the performance of tallies, ensuring accurate and timely reporting for operational decision-making.
 
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/ff5c5931-5a77-43a1-84f0-c065e1318f6c)
+
+ADDING AN ARRIVAL NOTICE
+![image](https://github.com/user-attachments/assets/1bcf0239-23c4-4cb6-90f2-e79505aa3e51)
+
 
